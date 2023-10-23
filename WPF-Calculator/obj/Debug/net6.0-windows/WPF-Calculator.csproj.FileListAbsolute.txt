@@ -1,0 +1,27 @@
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\bin\Debug\net6.0-windows\WPF-Calculator.exe
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\bin\Debug\net6.0-windows\WPF-Calculator.deps.json
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\bin\Debug\net6.0-windows\WPF-Calculator.runtimeconfig.json
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\bin\Debug\net6.0-windows\WPF-Calculator.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\bin\Debug\net6.0-windows\WPF-Calculator.pdb
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\WPF-Calculator_MarkupCompile.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\WPF-Calculator_MarkupCompile.lref
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\WPF-Calculator.g.resources
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\WPF-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\WPF-Calculator.AssemblyInfoInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\WPF-Calculator.AssemblyInfo.cs
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\WPF-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\WPF-Calculator.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\refint\WPF-Calculator.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\WPF-Calculator.pdb
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\WPF-Calculator.genruntimeconfig.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\ref\WPF-Calculator.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\obj\Debug\net6.0-windows\WPF-Calculator_Content.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\bin\Debug\net6.0-windows\Icons\3601151.png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\bin\Debug\net6.0-windows\Icons\options (1).jpg
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\bin\Debug\net6.0-windows\Icons\history1.jpg
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\bin\Debug\net6.0-windows\Icons\top-up.jpg
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\bin\Debug\net6.0-windows\Icons\Windows_Calculator_icon-_1_.jpg
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-Calculator\WPF-Calculator\bin\Debug\net6.0-windows\Icons\Windows_Calculator_icon-_1_.ico
